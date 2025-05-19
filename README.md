@@ -63,3 +63,8 @@ Success sending message!
 * Phone numbers must be in international format without special characters.
 * The contact name must exist in `contacts.json`.
 * Ensure Waha API is authenticated and connected to WhatsApp.
+
+## Images
+
+![](images/claude.png)
+![](images/whatsapp.png)
